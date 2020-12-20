@@ -1,12 +1,10 @@
-### Hi there! 👋 My name is Alison Killen (she/her)
+## Hi there! 👋 My name is Alison Killen (she/her)
 
-![<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/alikillenit)
-
-![<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alison-killen-she-her-2327a059/)
-
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alikillenit)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alison-killen-she-her-2327a059/)
 
 
-## I like coding, learning by doing, and building new projects. 
+### I like coding, learning by doing, and building new projects. 
 
 ## What I'm up to:
 
@@ -18,23 +16,22 @@
 
 
 ## Tech Stack and Tools:
-![Javascript]("https://img.icons8.com/dusk/64/000000/javascript.png")
-![Ruby]("https://img.icons8.com/color/48/000000/ruby-programming-language.png")
-![Ruby on Rails]("https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png")
-![HTML]("https://img.icons8.com/nolan/64/html-filetype.png")
-![CSS]("https://img.icons8.com/nolan/96/css-filetype.png")
-![React]("https://img.icons8.com/plasticine/100/000000/react.png")
-![Node]("https://img.icons8.com/color/96/000000/nodejs.png")
-![MongoDB]("https://img.icons8.com/color/48/000000/mongodb.png")
-![React]("https://img.icons8.com/plasticine/100/000000/react.png")
+<img src="https://img.icons8.com/dusk/64/000000/javascript.png" alt="Javascript"/>
+<img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby"/>
+<img src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" alt="Ruby on Rails"/>
+<img src="https://img.icons8.com/nolan/64/html-filetype.png" alt="html" />
+<img src="https://img.icons8.com/nolan/96/css-filetype.png" alt="css" />
+<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/>
+<img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="node"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
 
 
-![Trello]("https://img.icons8.com/color/96/000000/trello.png")
-![Github]("https://img.icons8.com/bubbles/100/000000/github.png")
-![Bootstrap]("https://img.icons8.com/color/96/000000/bootstrap.png")
-![Heroku]("https://img.icons8.com/color/48/000000/heroku.png")
-![AWS]("https://img.icons8.com/color/96/000000/amazon-web-services.png")
-![PostgreSQL]("https://img.icons8.com/ios-filled/100/000000/postgreesql.png")
+<img src="https://img.icons8.com/color/96/000000/trello.png" alt="trello" />
+<img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="github"/>
+<img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="bootstrap"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku"/>
+<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" />
+<img src="https://img.icons8.com/ios-filled/100/000000/postgreesql.png" alt="postgreSQL" />
 
 
 
