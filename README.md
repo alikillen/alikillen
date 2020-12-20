@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 My name is Alison Killen. 
 
 [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alikillen)](https://github.com/alikillen/github-readme-stats)
 
