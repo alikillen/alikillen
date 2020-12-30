@@ -9,12 +9,12 @@
 ## About Me:
 
 - :woman_technologist: Completing an intensive coding bootcamp at [Coder Academy](https://coderacademy.edu.au/)
-- Currently completing a MERN stack eCommerce site for last Coder Academy project
-- Building my tech stack and developer skills as I go
-- Looking for internships / employment from February 2021 - I'm commited to continuing my learning journey as a developer 
-- Passionate about diversity and inclusion in tech
-- Learning to create [CSS Art](https://github.com/alikillen/css_art) and [Pixel Art](https://github.com/alikillen/pixel_art) with code
-- I like swimming, video games, playing music, reading scifi and history, and travelling.
+- :computer: Currently completing a MERN stack eCommerce site for last Coder Academy project
+- :books: Building my tech stack and developer skills as I go
+- :mortar_board: Looking for internships / employment from February 2021 - I'm commited to continuing my learning journey as a developer 
+- :rainbow: Passionate about diversity and inclusion in tech
+- :art: Learning to create [CSS Art](https://github.com/alikillen/css_art) and [Pixel Art](https://github.com/alikillen/pixel_art) with code
+- :alien: I like swimming, video games, playing music, reading scifi and history, and travelling.
 
 
 ## Tech Stack and Tools:
