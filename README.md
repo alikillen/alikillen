@@ -21,20 +21,20 @@
 <p align="center">
 <img src="https://img.icons8.com/dusk/64/000000/javascript.png" alt="Javascript"/>
 <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby"/>
-<img src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" alt="Ruby on Rails"/>
+<img src="./img/rails.png" alt="Ruby on Rails"/>
 <img src="https://img.icons8.com/nolan/64/html-filetype.png" alt="html" />
-<img src="https://img.icons8.com/nolan/96/css-filetype.png" alt="css" />
-<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/>
+<img src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css" />
+<img src="https://img.icons8.com/nolan/64/react-native.png" alt="react" />
 <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="node"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
 
 
-<img src="https://img.icons8.com/color/96/000000/trello.png" alt="trello" />
-<img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="github"/>
-<img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="bootstrap"/>
+<img src="https://img.icons8.com/nolan/64/trello.png" alt="trello" />
+<img src="https://img.icons8.com/nolan/64/github.png" alt="github" />
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" />
 <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku"/>
-<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" />
-<img src="https://img.icons8.com/ios-filled/100/000000/postgreesql.png" alt="postgreSQL" />
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql" />
 
 </p>
 
