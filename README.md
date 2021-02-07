@@ -9,7 +9,7 @@
 ## About Me:
 
 - :woman_technologist: Currently a software development intern at [Dingo Software](https://www.dingo.com/)
-- :graduation_cap: Recently graduated from an intensive web development coding bootcamp at [Coder Academy](https://coderacademy.edu.au/). Recipient of Coder Academy's Diversity in Tech Scholarship :star:
+- :books: Recently graduated from an intensive web development coding bootcamp at [Coder Academy](https://coderacademy.edu.au/). Recipient of Coder Academy's Diversity in Tech Scholarship :star:
 - :mortar_board: Currently seeking a junior developer role upon completion of my internship - I'm commited to continuing my learning journey as a developer 
 - :computer: Currently completing a MERN stack eCommerce site for a client starting a women's motorcycle apparel business: [She Rydes - Repo](https://github.com/alikillen/She_Rydes)
 - :books: Building my tech stack and developer skills as I go by building projects
