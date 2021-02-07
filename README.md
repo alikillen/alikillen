@@ -8,11 +8,13 @@
 
 ## About Me:
 
-- :woman_technologist: Completing an intensive coding bootcamp at [Coder Academy](https://coderacademy.edu.au/)
-- :computer: Currently completing a MERN stack eCommerce site for last Coder Academy project
-- :books: Building my tech stack and developer skills as I go
-- :mortar_board: Looking for internships / employment from February 2021 - I'm commited to continuing my learning journey as a developer 
+- :woman_technologist: Currently a software development intern at [Dingo Software](https://www.dingo.com/)
+- :graduation_cap: Recently graduated from an intensive web development coding bootcamp at [Coder Academy](https://coderacademy.edu.au/). Recipient of Coder Academy's Diversity in Tech Scholarship :star:
+- :mortar_board: Currently seeking a junior developer role upon completion of my internship - I'm commited to continuing my learning journey as a developer 
+- :computer: Currently completing a MERN stack eCommerce site for a client starting a women's motorcycle apparel business: [She Rydes - Repo](https://github.com/alikillen/She_Rydes)
+- :books: Building my tech stack and developer skills as I go by building projects
 - :rainbow: Passionate about diversity and inclusion in tech
+- :pizza: Love attending meetups and events like Brisbane LGBT+ and Allies in Tech, Brisbane Tech Newbies, Women Who Code Brisbane, DevOps Girls, and Code Like a Girl Brisbane.
 - :art: Learning to create [CSS Art](https://github.com/alikillen/css_art) and [Pixel Art](https://github.com/alikillen/pixel_art) with code
 - :alien: I like swimming, video games, playing music, reading scifi and history, and travelling.
 
