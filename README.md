@@ -8,14 +8,15 @@
 
 ## About Me:
 
-- :woman_technologist: Currently a software development intern at [Dingo Software](https://www.dingo.com/)
+- :woman_technologist: Currently seeking a junior developer position
+- Recently completed software development internship at [Dingo Software](https://www.dingo.com/) - built a full-stack MERN app with 2 other interns to help Dingo visualise mining asset health
 - :books: Recently graduated from an intensive web development coding bootcamp at [Coder Academy](https://coderacademy.edu.au/). Recipient of Coder Academy's Diversity in Tech Scholarship :star:
-- :mortar_board: Currently seeking a junior developer role upon completion of my internship - I'm commited to continuing my learning journey as a developer 
-- :computer: Currently completing a MERN stack eCommerce site for a client starting a women's motorcycle apparel business: [She Rydes - Repo](https://github.com/alikillen/She_Rydes)
+- :mortar_board: I'm commited to continuing my learning journey as a developer 
+- :computer: Currently completing a MERN stack eCommerce site for a client starting a women's motorcycle apparel business: [She Rydes Website](http://sherydesapp.herokuapp.com/) / [She Rydes Repo](https://github.com/alikillen/She_Rydes)
 - :books: Building my tech stack and developer skills as I go by building projects
 - :rainbow: Passionate about diversity and inclusion in tech
 - :pizza: Love attending meetups and events like Brisbane LGBT+ and Allies in Tech, Brisbane Tech Newbies, Women Who Code Brisbane, DevOps Girls, and Code Like a Girl Brisbane.
-- :art: Learning to create [CSS Art](https://github.com/alikillen/css_art) and [Pixel Art](https://github.com/alikillen/pixel_art) with code
+- :art: Learning to create [CSS Art](https://github.com/alikillen/css_art) and [Pixel Art](https://github.com/alikillen/pixel_art) with code - [my Codepen](https://codepen.io/alikillen)
 - :alien: I like swimming, video games, playing music, reading scifi and history, and travelling.
 
 
