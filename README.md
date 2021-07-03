@@ -8,9 +8,11 @@
 
 ## About Me:
 
-- :woman_technologist: Currently seeking a junior developer position
-- Recently completed software development internship at [Dingo Software](https://www.dingo.com/) - built a full-stack MERN app with 2 other interns to help Dingo visualise mining asset health
-- :books: Recently graduated from an intensive web development coding bootcamp at [Coder Academy](https://coderacademy.edu.au/). Recipient of Coder Academy's Diversity in Tech Scholarship :star:
+- Fullstack software developer based in Brisbane, Australia
+- :woman_technologist: Currently working as a Web Developer at Digital Six
+- May 2021 completed an internship at Blackbook.AI
+- March 2021 completed software development internship at [Dingo Software](https://www.dingo.com/) - built a full-stack MERN app with 2 other interns to help Dingo visualise mining asset health
+- :books: Jan 2021 graduated from an intensive web development coding bootcamp at [Coder Academy](https://coderacademy.edu.au/). Recipient of Coder Academy's Diversity in Tech Scholarship :star:
 - :mortar_board: I'm commited to continuing my learning journey as a developer 
 - :computer: Currently completing a MERN stack eCommerce site for a client starting a women's motorcycle apparel business: [She Rydes Website](http://sherydesapp.herokuapp.com/) / [She Rydes Repo](https://github.com/alikillen/She_Rydes)
 - :books: Building my tech stack and developer skills as I go by building projects
