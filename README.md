@@ -8,9 +8,13 @@
 
 ## About Me:
 
-- Fullstack software developer based in Brisbane, Australia
-- :woman_technologist: Currently: Software Engineer at Mandalay Technologies (Angular NGRX, Typescript, C#)
-- :globe_with_meridians: I have experience with JS, React, NodeJS, C#, SQL, Typescript, Ruby on Rails, HTML, CSS, ExpressJS, and MongoDB.
+:woman_technologist: Fullstack software developer based in Brisbane, Australia
+Currently: Software Engineer at Mandalay Technologies (Angular NGRX, Typescript, C#)
+:globe_with_meridians: I have experience with JS, React, NodeJS, C#, SQL, Typescript, Ruby on Rails, HTML, CSS, ExpressJS, and MongoDB.
+
+
+<br>
+<br>
 
 - September 2021 - November 2022: Software Engineer at Blackbook.AI (C#, JS, DwKit framework).
 - May-September 2021: Web Developer at Digital Six (ReactJS, NextJS).
@@ -18,6 +22,8 @@
 - March 2021: completed software development internship at [Dingo Software](https://www.dingo.com/) - built a full-stack MERN app with 2 other interns to help Dingo visualise mining asset health
 - :books: Jan 2021 graduated from an intensive web development coding bootcamp at [Coder Academy](https://coderacademy.edu.au/). Recipient of Coder Academy's Diversity in Tech Scholarship :star:
 
+<br>
+<br>
 
 - :mortar_board: I'm commited to continuing my learning journey as a developer 
 - :computer: Currently completing a MERN stack eCommerce site for a client starting a women's motorcycle apparel business: [She Rydes Website](http://sherydesapp.herokuapp.com/) / [She Rydes Repo](https://github.com/alikillen/She_Rydes)
