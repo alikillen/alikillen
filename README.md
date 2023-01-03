@@ -8,14 +8,15 @@
 
 ## About Me:
 
-:woman_technologist: Fullstack software developer based in Brisbane, Australia <br>
-Currently: Software Engineer at Mandalay Technologies (Angular NGRX, Typescript, C#) <br>
+:wave: Fullstack software developer based in Brisbane, Australia <br>
+:woman_technologist: Jan 2023 - current: I'm a Software Engineer at Mandalay Technologies (Angular NGRX, Typescript, C#) <br>
 :globe_with_meridians: I have experience with JS, React, NodeJS, C#, SQL, Typescript, Ruby on Rails, HTML, CSS, ExpressJS, and MongoDB. <br>
 
 
 <br>
 <br>
 
+- November 2022: Women in Digital Awards Finalist - Rising Star of the Year :confetti_ball:
 - September 2021 - November 2022: Software Engineer at Blackbook.AI (C#, JS, DwKit framework).
 - May-September 2021: Web Developer at Digital Six (ReactJS, NextJS).
 - May 2021: completed an internship at Blackbook.AI
