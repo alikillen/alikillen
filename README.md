@@ -8,9 +8,9 @@
 
 ## About Me:
 
-:woman_technologist: Fullstack software developer based in Brisbane, Australia
-Currently: Software Engineer at Mandalay Technologies (Angular NGRX, Typescript, C#)
-:globe_with_meridians: I have experience with JS, React, NodeJS, C#, SQL, Typescript, Ruby on Rails, HTML, CSS, ExpressJS, and MongoDB.
+:woman_technologist: Fullstack software developer based in Brisbane, Australia <br>
+Currently: Software Engineer at Mandalay Technologies (Angular NGRX, Typescript, C#) <br>
+:globe_with_meridians: I have experience with JS, React, NodeJS, C#, SQL, Typescript, Ruby on Rails, HTML, CSS, ExpressJS, and MongoDB. <br>
 
 
 <br>
@@ -33,6 +33,8 @@ Currently: Software Engineer at Mandalay Technologies (Angular NGRX, Typescript,
 - :art: Learning to create [CSS Art](https://github.com/alikillen/css_art) and [Pixel Art](https://github.com/alikillen/pixel_art) with code - [my Codepen](https://codepen.io/alikillen)
 - :alien: I like swimming, video games, playing music, reading scifi and history, and travelling.
 
+<br>
+<br>
 
 ## Tech Stack and Tools:
 <p align="center">
