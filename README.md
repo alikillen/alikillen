@@ -8,14 +8,16 @@
 
 ## About Me:
 
-:wave: Fullstack software developer based in Brisbane, Australia <br>
-:woman_technologist: Jan 2023 - current: I'm a Software Engineer at Mandalay Technologies (Angular NGRX, Typescript, C#) <br>
-:globe_with_meridians: I have experience with JS, React, NodeJS, C#, SQL, Typescript, Ruby on Rails, HTML, CSS, ExpressJS, and MongoDB. <br>
+:wave: Fullstack software engineer based in Brisbane, Australia <br>
+:woman_technologist: July 2024 - current: I'm exploring a new role as an ICT Officer at Alpine Resorts Victoria at Mt Buller/Mt Stirling, improving my networking and cybersecurity skills <br>
+:globe_with_meridians: I have experience with JS, React, NodeJS, C#, .NET, SQL, Typescript, Ruby on Rails, HTML, CSS, ExpressJS, and MongoDB. <br>
 
 
 <br>
 <br>
 
+- Jan 2024 - July 2024: Career break and travelling! :evergreen_tree:
+- Jan 2023 - Jan 2024: Software Engineer at Mandalay Technologies (Angular NGRX, Typescript, C#)
 - November 2022: Women in Digital Awards Finalist - Rising Star of the Year :confetti_ball:
 - September 2021 - November 2022: Software Engineer at Blackbook.AI (C#, JS, DwKit framework).
 - May-September 2021: Web Developer at Digital Six (ReactJS, NextJS).
@@ -27,7 +29,7 @@
 <br>
 
 - :mortar_board: I'm commited to continuing my learning journey as a developer 
-- :computer: Currently completing a MERN stack eCommerce site for a client starting a women's motorcycle apparel business: [She Rydes Website](http://sherydesapp.herokuapp.com/) / [She Rydes Repo](https://github.com/alikillen/She_Rydes)
+- :computer: Coder Academy project - MERN stack eCommerce site for a client starting a women's motorcycle apparel business: [She Rydes Repo](https://github.com/alikillen/She_Rydes)
 - :books: Building my tech stack and developer skills as I go by building projects
 - :rainbow: Passionate about diversity and inclusion in tech
 - :pizza: Love attending meetups and events like Brisbane LGBT+ and Allies in Tech, Brisbane Tech Newbies, Women Who Code Brisbane, DevOps Girls, and Code Like a Girl Brisbane.
